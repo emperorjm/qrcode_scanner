@@ -151,7 +151,7 @@ drupalgap.settings.blocks.easystreet3 = {
     main:{}
   },
   footer:{
-    powered_by:{}
+    /**powered_by:{}**/
   }
 };
 
